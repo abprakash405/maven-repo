@@ -82,4 +82,10 @@
       <url>http://localhost:8081/nexus/content/repositories/devops-team-releases</url>
    </repository>
 </distributionManagement>
+<scm>
+   <connection>scm:git:git@github.com:abprakash405/maven-repo.git</connection>
+   <url>https://github.com/abprakash405/maven-repo</url>
+   <developerConnection>scm:git:git@github.com:abprakash405/maven-repo.git</developerConnection>
+</scm>
+
 </project>
