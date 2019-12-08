@@ -81,11 +81,11 @@
         <id>nexus</id>
         <url>http://localhost:8081/nexus/content/repositories/devops-team-releases</url>
     </repository>
-	<!--<snapshotRepository>
+	<snapshotRepository>
         <id>nexus</id>
         <url>http://localhost:8081/nexus/content/repositories/devops-team-snapshots</url>
     </snapshotRepository>
-     <repository>
+    <!-- <repository>
         <id>kishore-PC</id>
         <name>kishore-PC-releases</name>
         <url>http://localhost:8081/artifactory/devops-team-releases</url>

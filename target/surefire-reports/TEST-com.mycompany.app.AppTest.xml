@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.086" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.mycompany.app.AppTest" time="0.076" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -18,7 +18,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_102\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\kishore\AppData\Local\Temp\surefire6452748935639480039\surefirebooter1937462428993749712.jar C:\Users\kishore\AppData\Local\Temp\surefire6452748935639480039 2019-12-08T00-33-28_043-jvmRun1 surefire1217716615443793069tmp surefire_01348273203390353414tmp"/>
+    <property name="sun.java.command" value="C:\Users\kishore\AppData\Local\Temp\surefire8928640042274826179\surefirebooter5205472729674921695.jar C:\Users\kishore\AppData\Local\Temp\surefire8928640042274826179 2019-12-08T23-22-28_667-jvmRun1 surefire5981739411599019128tmp surefire_08042718765763261400tmp"/>
     <property name="surefire.test.class.path" value="D:\institute-details\DevOps-sessions\maven-practice\my-app\maven-repo\target\test-classes;D:\institute-details\DevOps-sessions\maven-practice\my-app\maven-repo\target\classes;C:\Users\kishore\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\kishore\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\kishore"/>
@@ -31,7 +31,7 @@
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\kishore\AppData\Local\Temp\surefire6452748935639480039\surefirebooter1937462428993749712.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\kishore\AppData\Local\Temp\surefire8928640042274826179\surefirebooter5205472729674921695.jar"/>
     <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_102\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_102\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_102\jre\classes"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -52,7 +52,7 @@
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
     <property name="sun.os.patch.level" value="Service Pack 1"/>
-    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_102\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\kishore\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\kishore\bin;C:\Program Files\Conan\conan;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files\Git\cmd;C:\Python27;C:\Program Files\Java\jdk1.8.0_102\bin;C:\Program Files\Amazon\AWSCLI\bin;C:\Users\kishore;D:\US-Support\avinash-chintala\real-time-tasks\EKS-AWS\eksctl_Windows_amd64;C:\Go\bin;C:\TDM-GCC-64\bin;C:\PROGRA~2\Groovy\GROOVY~1.7\bin;D:\Bhanu-System-Backup\SCM\Ant-Apache\apache-ant-1.9.4\bin;D:\DevOps\gradle\gradle-6.0-bin\gradle-6.0\bin;D:\institute-details\DevOps-sessions\Maven-Apache\apache-maven-3.1.1\bin;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Users\kishore\go\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_102\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\Users\kishore\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\kishore\bin;C:\Program Files\Conan\conan;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Microsoft SDKs\Azure\CLI2\wbin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Program Files\Git\cmd;C:\Python27;C:\Program Files\Java\jdk1.8.0_102\bin;C:\Program Files\Amazon\AWSCLI\bin;C:\Users\kishore;D:\US-Support\avinash-chintala\real-time-tasks\EKS-AWS\eksctl_Windows_amd64;C:\Go\bin;C:\TDM-GCC-64\bin;C:\PROGRA~2\Groovy\GROOVY~1.7\bin;D:\Bhanu-System-Backup\SCM\Ant-Apache\apache-ant-1.9.4\bin;D:\DevOps\gradle\gradle-6.0-bin\gradle-6.0\bin;D:\institute-details\DevOps-sessions\Maven-Apache\apache-maven-3.1.1\bin;C:\Program Files\Intel\WiFi\bin;C:\Program Files\Common Files\Intel\WirelessCommon;C:\Users\kishore\go\bin;C:\Users\kishore\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
     <property name="java.vm.info" value="mixed mode"/>
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="25.102-b14"/>
@@ -60,5 +60,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="52.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0.02"/>
+  <testcase name="shouldAnswerWithTrue" classname="com.mycompany.app.AppTest" time="0.004"/>
 </testsuite>
